@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ignacio Marin de la Barcena</h1></summary>
-    <h2 align="center">A passionate Artificial intelligence and cibersecurity student from Spain &#127470;&#127475</h2>
+    <h2 align="center">A passionate Artificial intelligence and cibersecurity student from Spain &#127466;&#127475</h2>
   </ul>
 </div>
 
