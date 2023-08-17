@@ -47,10 +47,14 @@
 
 <!--Skills (start)-->
 ### 🛠 &nbsp;Skills
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://th.bing.com/th/id/OIP.BWugDHBz7qW9EOPZfSk7fgHaFx?pid=ImgDet&rs=1" alt="jupyter notebook" height="50"/>
+    <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="jetbrains" height="50"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,mongodb,css,html,js,vscode,discord,powershell,ubuntu,jetbrains&perline=14"/>
+        
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -63,11 +67,10 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ignacio-marín-de-la-bárcena-pérez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nachomarin_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp/users/ign_mar_bar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://www.WhatsApp.com" target="blank"><img align="center" src="" alt="Whatsapp" height="50" width="50" /></a>
-<a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="cv" height="50" width="50"></a>
+<a href="https://github.com/IgnacioMarinBarcena/CV_INGLES/CV_Ignacio_Marin_Perez_ingles.pdf" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.81d891919ad9d2d8321c508f8f6ca007?rik=vZh%2bhnOlD7gTnw&pid=ImgRaw&r=0" alt="cv" height="50" width="50"></a>
+<a href="mailto:imbperezf@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="imbper" height="30"/></a>
 </p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
