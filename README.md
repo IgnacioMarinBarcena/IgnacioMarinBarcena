@@ -12,17 +12,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">PONER ALGO AQUÍ [Frase que te describa]</h3></summary>
+    <summary><h3 style="display: inline-block">"Through consistency and hard work you will be able to achieve anything."</h3></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently studing at th universuty
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning cibersecurity, artifcial intelligence anda data analysis
 
-- ☁️ I've keen interest in **...**
+- ☁️ I've keen interest in data analysis and artificial intelligence and its uses in the real world
 
 - 📫 Feel free to reach me out **imbperezf@gmail.com**
 
