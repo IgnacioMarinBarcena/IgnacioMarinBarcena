@@ -20,9 +20,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently studing at th universuty
 
-- 🌱 I’m currently learning cibersecurity, artifcial intelligence and data analysis
-
-- ☁️ I've keen interest in data analysis and artificial intelligence and its uses in the real world
+- 🌱 I’m currently learning **__**
+- ☁️ I've keen interest in **__**
 
 - 📫 Feel free to reach me out **imbperezf@gmail.com**
 
