@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgnacioMarinBarcena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgnacioMarinBarcena&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgnacioMarinBarcena&show_icons=true&theme=IgnacioMarinBarcena&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgnacioMarinBarcena&layout=compact&langs_count=8&theme=IgnacioMarinBarcena"/>
 </a>
 </p>
 
@@ -76,4 +76,4 @@
 ----------------------------------------------------------------------
 Credits: [Ignacio Marín de la Bárcena](https://github.com/IgnacioMarinBarcena)
 
-Last Edited on: 24/08/2023
+Last Edited on: 29/08/2023
