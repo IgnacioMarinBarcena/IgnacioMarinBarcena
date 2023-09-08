@@ -66,7 +66,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ignacio-marín-de-la-bárcena-pérez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/IgnacioMarinBarcena/CV_INGLES/blob/5d456208a3458fa90c800873526ac714f725f206/CV_Ignacio_Marin_Perez_ingles.pdf" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.81d891919ad9d2d8321c508f8f6ca007?rik=vZh%2bhnOlD7gTnw&pid=ImgRaw&r=0" alt="cv" height="50" width="50"></a>
+<a href="https://github.com/IgnacioMarinBarcena/CV_INGLES/blob/5bdeca8290e99374b5c61e0ca3869698be56fc4f/CV_Ignacio_Marin_Perez_ingles.pdf" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.81d891919ad9d2d8321c508f8f6ca007?rik=vZh%2bhnOlD7gTnw&pid=ImgRaw&r=0" alt="cv" height="50" width="50"></a>
 <a href="mailto:imbperezf@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="imbper" height="30"/></a>
 </p>
 
