@@ -50,7 +50,7 @@
   <a href="https://skillicons.dev">
     <img src="https://th.bing.com/th/id/OIP.BWugDHBz7qW9EOPZfSk7fgHaFx?pid=ImgDet&rs=1" alt="jupyter notebook" height="50"/>
     <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="jetbrains" height="50"/>
-    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,mongodb,css,html,js,vscode,discord,powershell,ubuntu,jetbrains&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,nosql,mysql,mongodb,dockers,css,html,js,vscode,discord,powershell,ubuntu,jetbrains&perline=14"/>
         
   </a>
 </p>
@@ -76,6 +76,6 @@
 ----------------------------------------------------------------------
 Credits: [Ignacio Marín de la Bárcena](https://github.com/IgnacioMarinBarcena)
 
-Last Edited on: 16/01/2024
+Last Edited on: 23/03/2024
 
 
