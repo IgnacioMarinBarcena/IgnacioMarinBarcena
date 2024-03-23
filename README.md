@@ -50,7 +50,7 @@
   <a href="https://skillicons.dev">
     <img src="https://th.bing.com/th/id/OIP.BWugDHBz7qW9EOPZfSk7fgHaFx?pid=ImgDet&rs=1" alt="jupyter notebook" height="50"/>
     <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="jetbrains" height="50"/>
-    <img src="https://skillicons.dev/icons?i=py,cpp,Nodejs,mysql,mongodb,docker,css,html,js,vscode,discord,powershell,ubuntu,jetbrains&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,node,mysql,mongodb,docker,css,html,js,vscode,discord,powershell,ubuntu,jetbrains&perline=14"/>
         
   </a>
 </p>
