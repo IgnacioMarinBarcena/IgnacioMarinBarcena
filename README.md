@@ -20,8 +20,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently studing at th universuty
 
-- 🌱 I’m currently learning **__**
-- ☁️ I've keen interest in **__**
+- 🌱 I’m currently learning
+- ☁️ I've keen interest in data science and IA
 
 - 📫 Feel free to reach me out **imbperezf@gmail.com**
 
@@ -50,7 +50,7 @@
   <a href="https://skillicons.dev">
     <img src="https://th.bing.com/th/id/OIP.BWugDHBz7qW9EOPZfSk7fgHaFx?pid=ImgDet&rs=1" alt="jupyter notebook" height="50"/>
     <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" alt="jetbrains" height="50"/>
-    <img src="https://skillicons.dev/iconsi=git,py,cpp,nodejs,mysql,mongodb,docker,css,html,js,vscode,discord,powershell,ubuntu,jetbrains,postman,&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=gitlab,github,java,py,cpp,nodejs,mysql,sqlite,mongodb,docker,css,html,js,vscode,pycharm,clion,discord,powershell,linux,ubuntu,kali,anaconda,postman,notion&perline=14"/>
         
   </a>
 </p>
